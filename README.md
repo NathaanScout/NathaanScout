@@ -19,10 +19,10 @@ Here are some ideas to get you started:
  # About me:
      ##  Languages i use
    ```yml
-    - • Javascript (JS) - Avançado
-      - • Typescript (JS) - Médio
-      - • HTML, CSS (Front-end) - O extremo básico.
-      - • Ruby - Iniciante.
+      - • Javascript (JS) - Advanced
+      - • Typescript (JS) - Medium
+      - • HTML, CSS (Front-end) - The basic extreme
+      - • Ruby - Beginner.
   ```
 
  
