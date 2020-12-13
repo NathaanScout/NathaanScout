@@ -1,5 +1,3 @@
-<h1 align="center"> Hello Dev! 🚀</h1>
-
 <h1 align="center"> 🌱 About me: </h1>
 
 <p align="center">
