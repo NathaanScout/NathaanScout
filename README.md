@@ -16,6 +16,15 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Hello Dev! 🚀</h1>
 
+ # About me:
+     ##  Languages i use
+   ```yml
+    - • Javascript (JS) - Avançado
+      - • Typescript (JS) - Médio
+      - • HTML, CSS (Front-end) - O extremo básico.
+      - • Ruby - Iniciante.
+  ```
+
  
 ![My github stats](https://github-readme-stats.vercel.app/api?username=PedroAraujo-Dust&show_icons=true&theme=dark)
 
