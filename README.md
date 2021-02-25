@@ -13,7 +13,7 @@ My name is Nathaan Scout, I'm 17 years old. I've been a developer for 3 years. M
    ```
 
  
-![My github stats](https://github-readme-stats.vercel.app/api?username=PedroAraujo-Dust&show_icons=true&theme=dark)
+![My github stats](https://github-readme-stats.vercel.app/api?username=NathaanScout&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAraujo-Dust&theme=dark)](https://github.com/PedroAraujo-Dust/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathaanScout&theme=dark)](https://github.com/PedroAraujo-Dust/github-readme-stats)
 
