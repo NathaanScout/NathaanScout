@@ -1,7 +1,7 @@
 <h1 align="center"> 🌱 About me: </h1>
 
 <p align="center">
-My name is Pedro Araujo, I'm 15 years old. I've been a developer for 2 years. My focus has always been on Javascript, but recently, I'm more focused on Typescript.
+My name is Nathaan Scout, I'm 17 years old. I've been a developer for 3 years. My focus has always been on Javascript, but recently, I'm more focused on Typescript.
 </p>
 
 
